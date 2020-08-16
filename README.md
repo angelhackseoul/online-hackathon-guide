@@ -9,3 +9,4 @@
 기여자 목록에 이 문서를 작성하는 데 도움을 주신 분들을 적어넣습니다. 지속적으로 업데이트됩니다.
 
 * 홍승환 ([@harrydrippin](https://github.com/harrydrippin))
+* 배성은 ([@jessicabae](https://github.com/jessicabae))
