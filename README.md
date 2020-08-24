@@ -17,3 +17,4 @@
 * 홍승환 ([@harrydrippin](https://github.com/harrydrippin))
 * 배성은 ([@jessicabae](https://github.com/jessicabae))
 * 김수정 ([@soojungsueme](https://github.com/soojungsueme))
+* 권나현 ([@NinanoKwon](https://github.com/NinanoKwon))
